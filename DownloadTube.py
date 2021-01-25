@@ -18,10 +18,11 @@ dsc = YouTube(usuario)
 
 print("-------------------------------------")
 print(" ESPERE MIENTRAS SE DESCARGA")
-print("-------------------------------------")
+print("-------------------------------------"+"\n")
 
 dsc.streams.first().download(r"/data/data/com.termux/files/home/storage/downloads")
 
+print("RUTA DEL VIDEO:STORAGE/DOWNLOADS")
 #dsc.streams.first().download()
 
 #JavierHack
