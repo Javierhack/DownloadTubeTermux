@@ -22,7 +22,9 @@ print("-------------------------------------"+"\n")
 
 dsc.streams.first().download(r"/data/data/com.termux/files/home/storage/downloads")
 
-print("RUTA DEL VIDEO:STORAGE/DOWNLOADS")
+print("-------------------------------------")
+print(" RUTA DEL VIDEO:STORAGE/DOWNLOADS")
+print("-------------------------------------")
 #dsc.streams.first().download()
 
 #JavierHack
