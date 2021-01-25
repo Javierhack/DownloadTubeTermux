@@ -10,6 +10,6 @@ Instalación
    - termux-setup-storage
    - pip install pytube
    - pkg install python
-   - git clone https://github.com/Javierhack/PytubeTermux-.git
-   - cd PytubeTermux-
+   - git clone https://github.com/Javierhack/DownloadTubeTermux.git
+   - cd DownloadTubeTermux
    - python DownloadTube.py
